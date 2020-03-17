@@ -5,4 +5,4 @@ robocode.battle.numRounds=10
 robocode.battle.gunCoolingRate=0.1
 robocode.battle.rules.inactivityTime=450
 robocode.battle.hideEnemyNames=true
-robocode.battle.selectedRobots=timeluve.RoboDoTrabalho*,sample.Fire
+robocode.battle.selectedRobots=timeluve.TheTerminator*,sample.Fire,sample.Corners,sample.Crazy,sample.Interactive_v2,sample.MyFirstJuniorRobot,sample.PaintingRobot,sample.RamFire,sample.Target

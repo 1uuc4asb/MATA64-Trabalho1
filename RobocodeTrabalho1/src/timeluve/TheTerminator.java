@@ -1,3 +1,4 @@
+// Trabalho por Lucas Borges e Venâncio de Sá
 package timeluve;
 
 import robocode.AdvancedRobot;
